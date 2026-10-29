@@ -40,5 +40,5 @@ The application currently features three primary analytical modules:
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/yourusername/Tulpar-Lab.git](https://github.com/yourusername/Tulpar-Lab.git)
+&#x20;  git clone \[https://github.com/xiratyMustackym/tulparLab.git](https://github.com/xiratyMustackym/tulparLab.git)
 
