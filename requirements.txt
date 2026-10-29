@@ -1,0 +1,4 @@
+numpy
+pandas
+matplotlib
+openpyxl (Required for Excel database management)
