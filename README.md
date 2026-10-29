@@ -1,4 +1,4 @@
-\# Tulpar Lab #
+Tulpar Lab
 
 
 
@@ -6,7 +6,7 @@ Tulpar Lab is a Python-based desktop engineering suite and simulation environmen
 
 
 
-\## 🚀 Features
+Features
 
 
 
@@ -20,9 +20,7 @@ The application currently features three primary analytical modules:
 
 \*   \*\*X-Ray Diffraction (XRD) Crystallography:\*\* Simulates theoretical XRD patterns based on Bragg's Law. Supports multiple crystal systems (Cubic, Tetragonal, Orthorhombic, Hexagonal) and Bravais lattices, generating relative intensity peaks and precise $2\\theta$ angles.
 
-
-
-\## 🛠️ Key Technical Highlights
+Key Technical Highlights
 
 \*   \*\*Real-Time Animation:\*\* Live plotting of test results using `matplotlib` to mimic physical testing environments.
 
@@ -32,7 +30,7 @@ The application currently features three primary analytical modules:
 
 
 
-\## 💻 Installation
+Installation
 
 
 
