@@ -36,13 +36,9 @@ Built-in material database using `.xlsx` files, allowing users to add, delete, a
 
 
 
-Installation
+## Installation & Setup
 
-
-
-1\. Clone this repository to your local machine:
-
-&#x20;  ```bash
-
-&#x20;  git clone \ [GitHub](https://github.com/xiratyMustackym)
-
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/xiratyMustackyn/tulparLab.git
+   cd tulparLab
